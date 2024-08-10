@@ -1,6 +1,4 @@
-//Riddhi Musale
-//Prn: 23070123108 
-//experiment 1: calculator 
+ 
 
 #include <iostream>
 using namespace std;
